@@ -1,0 +1,8 @@
+apiVersion: webapp.nikhil.kubebuilder.io/v1
+kind: Website
+metadata:
+  name: ebsiiiiiii
+spec:
+  # Add fields here
+  foo: bar2
+  text: nikhil

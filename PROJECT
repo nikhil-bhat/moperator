@@ -1,0 +1,7 @@
+domain: nikhil.kubebuilder.io
+repo: moperator
+resources:
+- group: webapp
+  kind: Website
+  version: v1
+version: "2"
